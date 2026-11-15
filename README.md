@@ -4,7 +4,7 @@ Co-Founder and CTO of [Nios](https://www.nios.earth/). Building agentic AI to op
 
 ### Products
 
-- [Nios](https://www.nios.earth/): AI platform for supply chain risk and environmental impact, from messy supplier data to emissions, water use, and improvement plans. Most of the code lives in private repos under [nios-earth](https://github.com/nios-earth)
+- [Nios](https://www.nios.earth/): AI platform for supply chain risk and environmental impact, from messy supplier data to emissions, water use, and improvement plans.
 
 ### macOS Apps
 
