@@ -1,29 +1,29 @@
 Co-Founder and CTO of [Nios](https://www.nios.earth/). Building agentic AI to optimize value chains. Based in Berlin.
 
-## Current Projects
+## Current projects
 
 ### Products
 
-- [Nios](https://www.nios.earth/): AI platform for supply chain risk and environmental impact, from messy supplier data to emissions, water use, and improvement plans.
-
-### macOS Apps
+- [Nios](https://www.nios.earth/): AI-native platform for companies to get business insights into raw material use, planetary resource pressures, and risks across their value chains.
+  
+### Desktop apps
 
 Native apps built for my own workflow. Free to use.
 
-- [Shotty](https://github.com/markusjura/shotty): Screenshots and screen recordings, with annotation, trimming, and GIF export
-- [Spotty](https://github.com/markusjura/spotty): Hold a shortcut, draw on the screen, let go
-- [Speakty](https://github.com/markusjura/speakty): Hold Right ⌘, speak, let go. Local dictation, no cloud (macOS and Linux)
+- [Shotty](https://github.com/markusjura/shotty): Screenshot and screen recording macOS app
+- [Spotty](https://github.com/markusjura/spotty): Screen highlighting macOS app
+- [Speakty](https://github.com/markusjura/speakty): Speech-to-text app for macOS and linux
 
 ### Tools
 
 - [google-chat-to-slack](https://github.com/markusjura/google-chat-to-slack): Migrate channels, threads, attachments, and reactions from Google Chat to Slack
 
-## Open Source Contributions
+## Open source contributions
 
-- [Codex](https://github.com/openai/codex): OpenAI's coding agent
-- [T3 Code](https://github.com/pingdotgg/t3code): A GUI for your coding agents
-- [Vercel AI SDK](https://github.com/vercel/ai): TypeScript toolkit for building AI apps
-- [Mastra](https://github.com/mastra-ai/mastra): TypeScript framework for AI agents
-- [WorkOS AuthKit](https://github.com/workos/authkit-session): Session handling for WorkOS AuthKit
-- [Raycast Extensions](https://github.com/raycast/extensions): Extensions for the Raycast launcher
-- [FluidAudio](https://github.com/FluidInference/FluidAudio): On-device speech models for Apple platforms
+- [Codex](https://github.com/openai/codex)
+- [T3 Code](https://github.com/pingdotgg/t3code)
+- [Vercel AI SDK](https://github.com/vercel/ai)
+- [Mastra](https://github.com/mastra-ai/mastra)
+- [WorkOS AuthKit](https://github.com/workos/authkit-session)
+- [Raycast Extensions](https://github.com/raycast/extensions)
+- [FluidAudio](https://github.com/FluidInference/FluidAudio)
