@@ -1,4 +1,4 @@
-Co-Founder and CTO of [Nios](https://www.nios.earth/). Building agentic AI to optimize value chains. Based in Berlin.
+Co-Founder and CTO of [Nios](https://www.nios.earth/). Based in Berlin.
 
 ## Current projects
 
